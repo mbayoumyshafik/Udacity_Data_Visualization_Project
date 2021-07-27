@@ -25,7 +25,7 @@ I've created several start_variables with different time-resolution (start_hour_
 
 * The bike trips by Customers take long in "The Embarcadero at Sansome St"
 
-## 5. Key Insights for Presentation slides
+## 5. Key Insights for Presentation Slides
 * In the presentation I focus on the relationship between bikes ride count and trip duration and user_types.
 
 * I started with a the distribution of trip count between the customers and subscribers.
